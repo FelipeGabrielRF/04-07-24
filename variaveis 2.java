@@ -22,8 +22,7 @@ public class Variaveis {
         float varFloat = 19.99f; // declaração da variavel varFloat, do tipo float, com valor recebido 19.99f
         System.out.println(varFloat);
 
-        double varDouble = 0.263568954; // declaração da vairavel varDouble, do tipo double, com valor recebido
-                                        // 0.263568954
+        double varDouble = 0.263568954; // declaração da vairavel varDouble, do tipo double, com valor recebido 0.263568954
         System.out.println(varDouble);
     }
 }
